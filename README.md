@@ -1,16 +1,13 @@
-## Hi there 👋
+# REW
 
-<!--
-**rew36/rew36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent concepts, software architecture, web/OS integration, and system design.
 
-Here are some ideas to get you started:
+I publish ideas and system concepts here as public proposals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public proposals
+
+### Extractable Web Surfaces
+
+A concept for allowing users to extract parts of web applications into persistent operating-system objects while preserving the browser security boundary.
+
+[View the proposal](https://github.com/rew36/extractable-web-surfaces)
